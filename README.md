@@ -3,7 +3,7 @@
  Projeto ainda em construção :hammer:
 
 ### Descrição: 
-Resolvi fazer uma espécie de "releitura" de página da secretaria de saúde do município de Praia Grande, aplicando as tegs aprendidas e requeridas no desafio de projeto da DIO
+Resolvi fazer uma espécie de "releitura" da página da secretaria de saúde do município de Praia Grande, aplicando as tags aprendidas e requeridas no desafio de projeto da DIO
 
 ### Tecnologias Utilizadas: 
 - <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
