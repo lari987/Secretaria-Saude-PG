@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Gotu&family=Montserrat:wght@200&family=Noto+Serif+Gujarati:wght@200&family=Open+Sans:wght@300&family=Quicksand:wght@300&display=swap");
+
+.secretario{
+    display: flex;
+    margin-left: 30%;
+    margin-top: -22.4%;
+}
+.nome{
+    margin-left: 49%;
+    margin-top: -18.3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu nav{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    background-color: grey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+ a{
+    text-decoration: none;
+    color: aliceblue;
+}
+img{
+    margin-left: 9%;
+}
+.titulo{
+    margin-left: 9%;
+    margin-right: 9%;
+    font-family: Arial;
+    font-size: 12px;
+    background-color: rgb(2, 170, 58);
+    color:rgb(255, 255, 255);
+    height: 50px;
+    margin-bottom: 18px;
+}
+
+.titulo h1{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.titulo i{
+    margin-right: 8px;
+}
+.menu2{
+    background-color: gray;
+    margin-left: 9%;
+    margin-right: 74%;
+    width: 24%;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.menu2 li{
+    list-style: none;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+}
+.sobre{
+    margin-left: 35%;
+    margin-top: -21.5%;
+    font-family: Arial;
+    margin-right: 9%;
+    text-align: justify;
+}
+
+.item{
+    background-color: rgb(2, 170, 58);
+    height: 30px;
+}
+.item h1{
+    color:white;
+    margin-left: 10px;
+    padding-top: 4px;
+    font-size: 20px;
+}
+
+.atribuicoes li{
+    
+}
+.sobre h2,h3{
+    margin-left: 34%;
+}
+.sobre h3{
+    color:#6c6e74;
+}
+.sobre img{
+    margin-left: -0.10%;
+    margin-top: -20.5%;
+    margin-bottom: 15px;
+}
+.contatos i{
+    margin-right: 10px;
+}
+
+.unidades h1{
+    margin-left: 35%;
+    margin-top: -24.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b9ddb;
+}
+.unidades p, table{
+    margin-left: 35%;
+    margin-top: 2%;
+    font-family: Arial;
+    margin-right: 9%;
+    text-align: justify;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+table th{
+    background-color: #0b9ddb;
+    color:white;
+} 
+table tr:nth-child(even) td{
+    background-color:#ebedeee7;
+} 
+footer{
+    background-color: #0b9ddb;
+    height: 350px;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+.footer{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.footer li{
+    list-style: none;
+    padding-bottom: 10px;
+}
+.footer p{
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+footer i{
+    margin-left: 20px;
+}
+.projetos-programas{
+    margin-left: 35%;
+    margin-top: -26%;
+}
+.projetos-programas a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.unidades-de-urgencia{
+    margin-left: 35%;
+    margin-top: -26%;
+    margin-right: 9%;
+    font-family: Arial, Helvetica, sans-serif;
+}
